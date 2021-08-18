@@ -1,0 +1,5 @@
+"Going Deeper with Convolutions"
+https://arxiv.org/abs/1409.4842
+
+"Deep Residual Learning for Image Recognition,"
+https://arxiv.org/abs/1512.03385
